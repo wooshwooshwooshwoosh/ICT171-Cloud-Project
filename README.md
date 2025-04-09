@@ -12,4 +12,4 @@ ICT171 Cloud Project
 [Watch the video explanation here](YOUR_VIDEO_LINK)
 
 ## Project Documentation
-The complete documentation for this project can be found in the [Documentation.md](Documentation.md) file in this repository.
+The complete documentation for this project can be found as a pdf file in this repository.
